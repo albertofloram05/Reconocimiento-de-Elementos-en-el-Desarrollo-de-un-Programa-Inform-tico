@@ -40,3 +40,9 @@ Debes incluir la siguiente información estructurada:
 - **Formato del archivo:** Documento en PDF.
 - **Extensión:** Entre 5 y 7 páginas.
 - **Plataforma de entrega:** Subir al **Aula Virtual** antes de la fecha límite establecida.
+
+---------
+
+## Autor
+
+- **Hecho por:** Alberto Florido Ramos.
